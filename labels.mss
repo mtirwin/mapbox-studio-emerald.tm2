@@ -24,11 +24,11 @@
 // as possible. 'Arial Unicode MS Regular' and 'Arial Unicode MS Bold' 
 //are recommended as final fallbacks if you have them available. 
 //They support all the characters used in the MapBox Streets vector tiles.
-@fallback: 'Open Sans Regular';
-@sans: 'Open Sans Regular', 'Arial Unicode MS Regular';
-@sans_md: 'Open Sans Semibold', 'Arial Unicode MS Regular';
-@sans_bd: 'Open Sans Bold','Arial Unicode MS Bold';
-@sans_it: 'Open Sans Italic', 'Arial Unicode MS Regular';
+@fallback: 'HolmenHeadlineOT Regular';
+@sans: 'HolmenHeadlineOT Regular', 'Arial Unicode MS Regular';
+@sans_md: 'HolmenOT RegularItalic', 'Arial Unicode MS Regular';
+@sans_bd: 'HolmenOT BoldItalic', 'Arial Unicode MS Bold';
+@sans_it: 'HolmenOT BoldItalic', 'Arial Unicode MS Regular';
 
 
 // ---------------------------------------------------------------------
