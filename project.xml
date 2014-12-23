@@ -5,7 +5,7 @@
 <Parameters>
   <Parameter name="attribution"><![CDATA[<a href='https://www.mapbox.com/about/maps/' target='_blank'>&copy; Mapbox &copy; OpenStreetMap</a> <a class='mapbox-improve-map' href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a>]]></Parameter>
   <Parameter name="bounds">-180,-85.0511,180,85.0511</Parameter>
-  <Parameter name="center">37.6061,55.7513,16</Parameter>
+  <Parameter name="center">37.6061,55.7513,14</Parameter>
   <Parameter name="format">png8:m=h</Parameter>
   <Parameter name="maxzoom">22</Parameter>
   <Parameter name="minzoom">0</Parameter>
@@ -14,19 +14,19 @@
 </Parameters>
 
 <FontSet name="fontset-0">
-  <Font face-name="Open Sans Bold"/>
+  <Font face-name="HolmenOT BoldItalic"/>
   <Font face-name="Arial Unicode MS Bold"/>
 </FontSet>
 <FontSet name="fontset-1">
-  <Font face-name="Open Sans Italic"/>
+  <Font face-name="HolmenOT BoldItalic"/>
   <Font face-name="Arial Unicode MS Regular"/>
 </FontSet>
 <FontSet name="fontset-2">
-  <Font face-name="Open Sans Semibold"/>
+  <Font face-name="HolmenOT RegularItalic"/>
   <Font face-name="Arial Unicode MS Regular"/>
 </FontSet>
 <FontSet name="fontset-3">
-  <Font face-name="Open Sans Regular"/>
+  <Font face-name="HolmenHeadlineOT Regular"/>
   <Font face-name="Arial Unicode MS Regular"/>
 </FontSet>
 <FontSet name="fontset-4">
